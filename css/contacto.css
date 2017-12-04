@@ -1,0 +1,16 @@
+/* CSS Document */
+
+.form-contacto {
+	width: 50%;
+}
+form div {
+	float: left;
+	height: 40px;
+	border: 1px solid;
+}
+.d50 {
+	width: 50%;
+}
+.d100 {
+	width: 100%;
+}

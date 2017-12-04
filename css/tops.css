@@ -1,0 +1,28 @@
+/* CSS Document */
+
+.cont-izquierdo {
+	width: 60%;
+	height: auto;
+	border: 1px solid #bbb;
+	float: left;
+	padding: 5px;
+	background-color: #fff;
+}
+.cont-derecho {
+	width: 38%;
+	height: 1000px;
+	border: 1px solid #bbb;
+	float: left;
+	padding: 10px;
+	margin-left: 2%;
+	background-color: #fff;
+}
+.barra-tops {
+	width: 100%;
+	height: 100px;
+	margin-bottom: 5px;
+}
+.img-tops {
+	height: 100%;
+	float: left;
+}

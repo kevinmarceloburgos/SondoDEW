@@ -1,0 +1,15 @@
+/* CSS Document */
+
+.arti-event {
+	border: 1px solid #bbb;
+	float: left;
+	width: 23%;
+	margin: 1%;
+	height: auto;
+	background-color: #fff;
+	overflow: hidden;
+}
+.img-event {
+	width: 100%;
+	height: 100%;
+}
